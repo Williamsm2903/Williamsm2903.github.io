@@ -23,6 +23,7 @@ My GitHub page is http://github.com/williamsm2903.
     the first time seeing my work paying off in my code.
 
 * Lab 6 part 2
+
 Lab 6 part 2 was the guessing game lab. In this lab you were able to play a game
 with the computer. This game was you had to guess the number the computer picked.
 I enjoyed this one because it felt like the movie War Games.
